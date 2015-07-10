@@ -7,7 +7,7 @@
 
 <body>
 	<?php
-		echo "Archivo de conflicto de Roberto.";
+		echo "Archivo de conflicto de Roberto. NUEVO Conflicto.";
 	?>
 </body>
 </html>
